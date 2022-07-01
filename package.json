@@ -1,0 +1,25 @@
+{
+  "name": "redux_toolkit",
+  "version": "1.0.0",
+  "description": "basic redux toolkit code for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesshoemake/redux_toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesshoemake/redux_toolkit/issues"
+  },
+  "homepage": "https://github.com/jamesshoemake/redux_toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.3",
+    "axios": "^0.27.2",
+    "redux-logger": "^3.0.6"
+  }
+}
